@@ -125,8 +125,9 @@ L’analyse met en évidence plusieurs éléments importants :
 ---
 
 ## 📷 Aperçu du tableau de bord
+[Projet_Final_Power_BI.pdf](https://github.com/user-attachments/files/25922040/Projet_Final_Power_BI.pdf)
 
-(Ajouter ici une capture d’écran du tableau de bord)
+
 
 ---
 
@@ -142,4 +143,3 @@ Domaines d’intérêt :
 * Machine Learning
 * Data Visualization
 
-[Projet_Final_Power_BI.pdf](https://github.com/user-attachments/files/25921902/Projet_Final_Power_BI.pdf)
