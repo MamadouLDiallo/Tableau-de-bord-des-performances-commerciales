@@ -125,9 +125,8 @@ L’analyse met en évidence plusieurs éléments importants :
 ---
 
 ## 📷 Aperçu du tableau de bord
-[Projet_Final_Power_BI.pdf](https://github.com/user-attachments/files/25922040/Projet_Final_Power_BI.pdf)
 
-
+<img width="980" height="550" alt="image" src="https://github.com/user-attachments/assets/d2589028-e1d2-4af4-a724-4946f71d522f" />
 
 ---
 
