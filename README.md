@@ -124,7 +124,7 @@ L’analyse met en évidence plusieurs éléments importants :
 ---
 
 ## 📷 Aperçu du tableau de bord
-https://github.com/MamadouLDiallo/Tableau-de-bord-des-performances-commerciales/blob/main/image.jpg
+![Dashboard](https://raw.githubusercontent.com/MamadouLDiallo/Tableau-de-bord-des-performances-commerciales/main/image.jpg)
 ---
 
 ## 👨‍💻 Auteur
