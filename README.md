@@ -124,7 +124,7 @@ L’analyse met en évidence plusieurs éléments importants :
 ---
 
 ## 📷 Aperçu du tableau de bord
-<img src="C:\Users\user\Desktop\PROJET Power BI/image.png" width="600">
+<img src="C:/Users/user/Desktop/PROJET Power BI/image.png" width="600">
 ---
 
 ## 👨‍💻 Auteur
