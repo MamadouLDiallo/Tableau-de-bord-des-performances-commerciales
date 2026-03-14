@@ -126,8 +126,6 @@ L’analyse met en évidence plusieurs éléments importants :
 
 ## 📷 Aperçu du tableau de bord
 
-<img width="980" height="550" alt="image" src="https://github.com/user-attachments/assets/d2589028-e1d2-4af4-a724-4946f71d522f" />
-
 ---
 
 ## 👨‍💻 Auteur
