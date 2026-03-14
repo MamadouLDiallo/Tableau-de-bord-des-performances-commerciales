@@ -124,7 +124,7 @@ L’analyse met en évidence plusieurs éléments importants :
 ---
 
 ## 📷 Aperçu du tableau de bord
-https://github.com/MamadouLDiallo/Tableau-de-bord-des-performances-commerciales/blob/main/Projet_Final_Power_BI.pbix
+https://github.com/MamadouLDiallo/Tableau-de-bord-des-performances-commerciales/blob/main/image.jpg
 ---
 
 ## 👨‍💻 Auteur
