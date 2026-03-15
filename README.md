@@ -80,7 +80,7 @@ Le tableau de bord permet d’analyser plusieurs indicateurs clés :
 
 * 📈 **Évolution du chiffre d’affaires par année**
 * 🏆 **Top 5 des produits par chiffre d’affaires**
-* 📦 **Top 5 des produits les plus vendus**
+* 📦 **Top 5 des produits par quantité**
 * 🥧 **Contribution des produits au chiffre d’affaires**
 * 📊 **Indicateurs de performance (KPI)** :
 
