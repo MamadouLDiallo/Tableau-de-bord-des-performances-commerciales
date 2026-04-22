@@ -130,11 +130,10 @@ L’analyse met en évidence plusieurs éléments importants :
 
 ## 👨‍💻 Auteur
 
-**Mamadou Lamarana Diallo**
- 
- 🎓 Diplomé d'un **Master en Statistique et Informatique Décisionnelle**
+**Mamadou Lamarana Diallo**  
+🎓 Diplômé d’un Master en Statistique et Informatique Décisionnelle  
 
-Domaines d’intérêt :
+### 🔍 Domaines d’intérêt
 
 * Data Analysis
 * Business Intelligence
