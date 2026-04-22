@@ -137,6 +137,11 @@ Domaines d’intérêt :
 * Data Analysis
 * Business Intelligence
 * Machine Learning
-* Data Visualization
+* Data Visualization 
+
+### 🔗 Me contacter
+- LinkedIn : https://www.linkedin.com/in/mamadou-lamarana-diallo-937430274/  
+- GitHub : https://github.com/MamadouLDiallo
+
 
 
